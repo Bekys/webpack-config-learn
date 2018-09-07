@@ -8,7 +8,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      text: 'd7722227d'
+      text: 'd772222wwwwwwwwwwwww7d'
     }
   }
 }
